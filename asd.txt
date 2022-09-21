@@ -32,3 +32,6 @@ Company
   PageFactory.initElement(Driver, Loginpageobject.class)
 
 We have to segrigate webelement separately. We can do efficiently through PageFactory @PageFactory InitElement @FindBy
+
+
+changes
