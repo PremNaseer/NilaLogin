@@ -1,0 +1,34 @@
+
+
+My roles and respo
+
+To understand the business requirement of our project and I check the active sprint in Jira for our project code. 
+There I can see my assigned open tasks. After that I will check my mail if there is any important mail I need to take action on.
+Then we have our daily scrum meeting where we used to tell our previous day actions what we 
+did, what we are planning for today 
+
+
+if we have any blocker to discuss. Product owner and scrum master help us to resolve that blocker.
+After that I need to take the pending task and do needed action whether creating test case, Execution, Defect retesting if any. 
+
+I have 5 years and 6 month  experience as a Technical support engineer at sutherland global service. 
+We are handled MS WIndows application issues Like OneDrive, MS Store, Edge and Xbox app. 
+We have to troubleshoot the application with recommended steps under scope of support. 
+We can test the application as end user perspective. If it is not fix. We have to rise the bug for emerging
+and challenging issues in ticketing tool.
+
+And I have 1 year and 6 month Experience as Software Tester at Nilaapay Big source private Limited. It's a
+small startup company. I worked under E-commerce project for this company and I have to understand the business
+requirements and to create test cases and I have to implement the test cases with various data. I have to 
+auotmate the test cases using Automations scripts. If any test case is failed we have to report to a 
+developer team using Jira tool
+
+
+Guidy near nandhabakkam
+Company
+1 hour training
+
+
+  PageFactory.initElement(Driver, Loginpageobject.class)
+
+We have to segrigate webelement separately. We can do efficiently through PageFactory @PageFactory InitElement @FindBy
